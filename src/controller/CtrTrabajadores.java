@@ -141,6 +141,7 @@ public class CtrTrabajadores {
 	}
 
 	public static void rellenarCuadros() {
+		// blña
 		view.DiaTrabajador.textDni.setText(logic.LogicTrabajador.dni);
 		view.DiaTrabajador.textNombre.setText(logic.LogicTrabajador.Nombre);
 		view.DiaTrabajador.textApellidos.setText(logic.LogicTrabajador.Apellido);
